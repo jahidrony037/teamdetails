@@ -27,3 +27,7 @@ Visit https://my-json-server.typicode.com/
     / your-repo 
   
     to access your server
+  
+  #LIVE_SITE
+  
+  https://my-json-server.typicode.com/jahidrony037/teamdetails/teams
