@@ -1,0 +1,185 @@
+{
+    "teams":[
+        {
+           "id": "133604",
+           "strSport":"Football",
+           "strTeam":"Arsenal",
+            "strCountry":"England",
+            "strGender":"Male",
+            "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+            "intFormedYear":"1892"
+        },
+        {
+            "id": "133601",
+            "strSport":"Football",
+            "strTeam":"Aston Villa",
+                "strCountry":"England",
+                "strGender":"Male",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
+                "intFormedYear":"1889"
+        },
+        {
+            "id": "134355",
+            "strSport":"Football",
+            "strTeam":"Brentford",
+                "strCountry":"England",
+                "strGender":"Male",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
+                "intFormedYear":"1889"
+        },
+        {
+            "id": "133619",
+            "strSport":"Football",
+            "strTeam":"Brighton",
+                "strCountry":"England",
+                "strGender":"Male",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
+                "intFormedYear":"1901"
+        },
+        {
+            "id": "133623",
+            "strSport":"Football",
+            "strTeam":"Burnley",
+                "strCountry":"England",
+                "strGender":"Male",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/sqrttx1448811003.png",
+                "intFormedYear":"1882"
+        },
+        {
+            "id": "133610",
+            "strSport":"Football",
+            "strTeam":"Chelsea F.C. Women",
+                "strCountry":"England",
+                "strGender":"Female",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
+                "intFormedYear":"1905"
+        },
+        {
+            "id": "133632",
+            "strSport":"Football",
+            "strTeam":"Crystal Palace",
+                "strCountry":"England",
+                "strGender":"Male",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/rytxyw1448813222.png",
+                "intFormedYear":"1905"
+        },
+        {
+            "id": "133615",
+            "strSport":"Football",
+            "strTeam":"Everton",
+                "strCountry":"England",
+                "strGender":"Male",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+                "intFormedYear":"1878"
+        },
+        {
+            "id": "133635",
+            "strSport":"Football",
+            "strTeam":"Leeds F.C. Women",
+                "strCountry":"England",
+                "strGender":"Male",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/g0eqzw1598804097.png",
+                "intFormedYear":"1919"
+        },
+        {
+            "id": "133626",
+            "strSport":"Football",
+            "strTeam":"Leicester",
+                "strCountry":"England",
+                "strGender":"Female",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/xtxwtu1448813356.png",
+                "intFormedYear":"1884"
+        },
+        {
+            "id": "133602",
+            "strSport":"Football",
+            "strTeam":"Liverpool",
+                "strCountry":"England",
+                "strGender":"Male",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/uvxuqq1448813372.png",
+                "intFormedYear":"1892"
+        },
+        {
+            "id": "133613",
+            "strSport":"Football",
+            "strTeam":"Man City",
+                "strCountry":"England",
+                "strGender":"Male",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+                "intFormedYear":"1880"
+        },
+        {
+            "id": "133612",
+            "strSport":"Football",
+            "strTeam":"Manchester United",
+                "strCountry":"England",
+                "strGender":"Male",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+                "intFormedYear":"1878"
+        },
+        {
+            "id": "134777",
+            "strSport":"Football",
+            "strTeam":"Newcastle F.C Women",
+                "strCountry":"England",
+                "strGender":"Female",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
+                "intFormedYear":"1892"
+        },
+        {
+            "id": "133608",
+            "strSport":"Football",
+            "strTeam":"Norwich",
+                "strCountry":"England",
+                "strGender":"Male",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/795fdp1640023853.png",
+                "intFormedYear":"1902"
+        },
+        {
+            "id": "134778",
+            "strSport":"Football",
+            "strTeam":"Southampton",
+                "strCountry":"England",
+                "strGender":"Male",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/ggqtd01621593274.png",
+                "intFormedYear":"1885"
+        },
+        {
+            "id": "133616",
+            "strSport":"Football",
+            "strTeam":"Tottenham",
+                "strCountry":"England",
+                "strGender":"Male",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
+                "intFormedYear":"1882"
+        },
+        {
+            "id": "133624",
+            "strSport":"Football",
+            "strTeam":"Watford F.C. Women",
+                "strCountry":"England",
+                "strGender":"Male",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/rsuswy1448813519.png",
+                "intFormedYear":"1881"
+        },
+        {
+            "id": "133636",
+            "strSport":"Football",
+            "strTeam":"West Ham",
+                "strCountry":"England",
+                "strGender":"Male",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png",
+                "intFormedYear":"1895"
+        },
+        {
+            "id": "133599",
+            "strSport":"Football",
+            "strTeam":"Wolves",
+                "strCountry":"England",
+                "strGender":"Male",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/u9qr031621593327.png",
+                "intFormedYear":"1877"
+        }
+    ]
+}
+    
