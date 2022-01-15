@@ -7,6 +7,9 @@
             "strCountry":"England",
             "strGender":"Male",
             "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+            "strFacebook": "www.facebook.com/Arsenal",
+            "strYoutube": "www.youtube.com/user/ArsenalTour",
+            "strTwitter": "twitter.com/arsenal",
             "intFormedYear":"1892"
         },
         {
@@ -15,7 +18,10 @@
             "strTeam":"Aston Villa",
                 "strCountry":"England",
                 "strGender":"Male",
-                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
+                "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/aofmzk1565427581.png",
+                "strFacebook": "www.facebook.com/avfcofficial",
+                "strYoutube": "www.youtube.com/user/avfcofficial",
+                "strTwitter": "twitter.com/avfcofficial",
                 "intFormedYear":"1889"
         },
         {
@@ -25,6 +31,9 @@
                 "strCountry":"England",
                 "strGender":"Male",
                 "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
+                "strFacebook": "www.facebook.com/brentfordfootballclub1889",
+                "strYoutube": "www.youtube.com/brentfordfc",
+                "strTwitter": "twitter.com/brentfordfc",
                 "intFormedYear":"1889"
         },
         {
@@ -34,6 +43,9 @@
                 "strCountry":"England",
                 "strGender":"Male",
                 "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
+                "strFacebook": "www.facebook.com/officialbhafc/",
+                "strYoutube": "www.youtube.com/user/officialbhafc",
+                "strTwitter": "twitter.com/officialbhafc",
                 "intFormedYear":"1901"
         },
         {
@@ -43,6 +55,9 @@
                 "strCountry":"England",
                 "strGender":"Male",
                 "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/sqrttx1448811003.png",
+                "strFacebook": "www.facebook.com/officialburnleyfc",
+                "strYoutube": "www.youtube.com/user/officialburnleyfc",
+                "strTwitter": "www.twitter.com/burnleyofficial",
                 "intFormedYear":"1882"
         },
         {
@@ -52,6 +67,9 @@
                 "strCountry":"England",
                 "strGender":"Female",
                 "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
+                "strFacebook": "www.facebook.com/ChelseaFC",
+                "strYoutube": "www.youtube.com/user/chelseafc",
+                "strTwitter": "twitter.com/chelseafc",
                 "intFormedYear":"1905"
         },
         {
@@ -61,6 +79,9 @@
                 "strCountry":"England",
                 "strGender":"Male",
                 "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/rytxyw1448813222.png",
+                "strFacebook": "www.facebook.com/officialcpfc",
+                "strYoutube": "www.youtube.com/channel/UCWB9N0012fG6bGyj486Qxmg",
+                "strTwitter": "twitter.com/cpfc",
                 "intFormedYear":"1905"
         },
         {
@@ -70,6 +91,9 @@
                 "strCountry":"England",
                 "strGender":"Male",
                 "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+                "strFacebook": "www.facebook.com/Everton",
+                "strYoutube": "www.youtube.com/user/OfficialEverton",
+                "strTwitter": "twitter.com/everton",
                 "intFormedYear":"1878"
         },
         {
@@ -79,6 +103,9 @@
                 "strCountry":"England",
                 "strGender":"Male",
                 "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/g0eqzw1598804097.png",
+                "strFacebook": "www.facebook.com/LeedsUnited",
+                "strYoutube": "www.youtube.com/user/LeedsUnitedOfficial",
+                "strTwitter": "twitter.com/lufc",
                 "intFormedYear":"1919"
         },
         {
@@ -88,6 +115,9 @@
                 "strCountry":"England",
                 "strGender":"Female",
                 "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/xtxwtu1448813356.png",
+                "strFacebook": "www.facebook.com/lcfcofficial",
+                "strYoutube": "www.youtube.com/user/LCFCOfficial",
+                "strTwitter": "twitter.com/lcfc",
                 "intFormedYear":"1884"
         },
         {
@@ -97,6 +127,9 @@
                 "strCountry":"England",
                 "strGender":"Male",
                 "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/uvxuqq1448813372.png",
+                "strFacebook": "www.facebook.com/LiverpoolFC",
+                "strYoutube": "youtube.com/user/LiverpoolFC",
+                "strTwitter": "twitter.com/lfc",
                 "intFormedYear":"1892"
         },
         {
@@ -106,6 +139,9 @@
                 "strCountry":"England",
                 "strGender":"Male",
                 "strTeamBadge":"https://www.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+                "strFacebook": "www.facebook.com/mancity/",
+                "strYoutube": "youtube.com/user/mcfcofficial",
+                "strTwitter": "twitter.com/ManCity",
                 "intFormedYear":"1880"
         },
         {
